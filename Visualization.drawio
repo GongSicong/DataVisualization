@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T07:54:51.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="b-YN_q9rKqKHv1GT7BYy" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-29T07:55:02.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="y9_r-6y93MnuvG6mjRyx" version="22.1.4" type="github" pages="2">
   <diagram name="第 1 页" id="zkNjxj-7vgQrWTerMI57">
     <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="uibHqKtkNB9VnTDQrDVG-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Temporal Properties&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Times New Roman;html=1;whiteSpace=wrap;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="225" y="260" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="uibHqKtkNB9VnTDQrDVG-4" value="Raw Trip" style="rounded=1;shadow=1;fontFamily=Times New Roman;align=center;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.85,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];container=0;" vertex="1" parent="1">
+        <mxCell id="uibHqKtkNB9VnTDQrDVG-4" value="Trip by Coord" style="rounded=1;shadow=1;fontFamily=Times New Roman;align=center;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.85,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];container=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uibHqKtkNB9VnTDQrDVG-5" value="Trip by Coord" style="rounded=1;shadow=1;fontFamily=Times New Roman;align=center;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.85,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];container=0;" vertex="1" parent="1">
