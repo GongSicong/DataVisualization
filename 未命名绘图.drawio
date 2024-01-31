@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T08:21:47.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7RsfMP9LTprKULvNgJeh" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:38:56.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9MkNAuYKnpVACXKnZNnU" version="23.0.1" type="github">
   <diagram name="第 1 页" id="3s1gKKwR2BvznjnYBD5C">
     <mxGraphModel dx="707" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
         <mxCell id="DYgG_8yFSiX4ViWyirKT-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;(b)&amp;nbsp;Non-Photorealistic Lighting&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DYgG_8yFSiX4ViWyirKT-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;(a)&amp;nbsp;Mida With Gamma -1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="DYgG_8yFSiX4ViWyirKT-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;(a)&amp;nbsp;MIDA With Gamma -1 (DVR)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="500" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DYgG_8yFSiX4ViWyirKT-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;(b)&amp;nbsp;Mida With Gamma -0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="DYgG_8yFSiX4ViWyirKT-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;(b)&amp;nbsp;MIDA With Gamma -0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="390" y="500" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DYgG_8yFSiX4ViWyirKT-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;(a)&amp;nbsp;Linear Interpolation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
